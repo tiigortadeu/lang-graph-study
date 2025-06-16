@@ -8,16 +8,16 @@ Este documento complementa o README principal, fornecendo uma visão detalhada d
 
 ## 📊 **Matriz de Competências por Projeto**
 
-| **Competência** | **Projeto 1** | **Projeto 2** | **Projeto 3** | **Projeto 4** | **Nível** |
-|-----------------|---------------|---------------|---------------|---------------|-----------|
-| **Python Avançado** | ✅ | ✅ | ✅ | ✅ | **Avançado** |
-| **LangGraph/LangChain** | ✅ | ✅ | ✅ | ❌ | **Avançado** |
-| **Agentes de IA** | ✅ | ✅ | ✅ | ❌ | **Avançado** |
-| **API Integration** | ✅ | ❌ | ✅ | ❌ | **Intermediário** |
-| **OAuth2/Security** | ❌ | ❌ | ✅ | ❌ | **Intermediário** |
-| **Streamlit/UI** | ❌ | ✅ | ✅ | ❌ | **Intermediário** |
-| **Type Safety** | ✅ | ✅ | ✅ | ✅ | **Avançado** |
-| **Error Handling** | ✅ | ✅ | ✅ | ✅ | **Avançado** |
+| **Competência** | **Projeto 1** | **Projeto 2** | **Projeto 3** | **Projeto 4** 
+|-----------------|---------------|---------------|---------------|---------------|
+| **Python Avançado** | ✅ | ✅ | ✅ | ✅ |
+| **LangGraph/LangChain** | ✅ | ✅ | ✅ | ❌ |
+| **Agentes de IA** | ✅ | ✅ | ✅ | ❌ |
+| **API Integration** | ✅ | ❌ | ✅ | ❌ |
+| **OAuth2/Security** | ❌ | ❌ | ✅ | ❌ |
+| **Streamlit/UI** | ❌ | ✅ | ✅ | ❌ |
+| **Type Safety** | ✅ | ✅ | ✅ | ✅ | 
+| **Error Handling** | ✅ | ✅ | ✅ | ✅ | 
 
 ---
 
