@@ -293,18 +293,7 @@ cd 4_types && python structured_output.py
 - [ ] **Monitoramento e Métricas** de performance
 - [ ] **Testes Automatizados** para sistemas de IA
 
----
 
-## 📞 **Contato**
-
-**Desenvolvido por:** [Seu Nome]  
-**LinkedIn:** [Seu LinkedIn]  
-**Email:** [Seu Email]  
-**GitHub:** [Seu GitHub]
-
-> 💼 **Aberto a oportunidades** em IA, Machine Learning, Desenvolvimento de Agentes e Sistemas Inteligentes.
-
----
 
 ## 📄 **Licença**
 
